@@ -1,6 +1,8 @@
 {
   "name": "hello_world",
   "version": "1.0.0",
+  "repository": "https://github.com/jonmcquade/tuts",
+  "README": "../../README.md",
   "description": "An intro code pairing for our first react.js application",
   "main": "index.js",
   "dependencies": {
